@@ -13,7 +13,15 @@ The different colours of Open Acess represent the different classes of OA. Figur
 
 ## APCs
 
-Some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of
+Some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs. All figures in CAD
+
+- Total amount spent: **$621,484**
+- Average amount per paid APC: **$3959**
+- About **55%** of the published items had an APC attached about
+- About **54%** of items that had an APC, had that APC paid for
+
+
+
 
 ## Reproducability
 
@@ -26,7 +34,7 @@ This data is built with a few assumptions involved and outlined below
 The computational notebooks used to create this data:
 
 - [Data Set Creation]()
-- [APC Analysis]()
+- [APC Analysis](https://github.com/elibtronic/state_of_scholarly_communication/blob/main/2025_APC_Analysis.ipynb)
 
 ## Acknowledgements
 
