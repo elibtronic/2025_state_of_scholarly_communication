@@ -47,4 +47,4 @@ The data in this analysis was sourced from
 
 - Consult our [Getting Your Research Out]() Guide for more information
 - Please contact [Tim Ribaric](https://brocku.ca/library/tim-ribaric/) Scholarly Publishing and Platforms Librarian
-- Special Thanks to Erin Moorhouse, Research Lifecycle Intern
+- Special Thanks to Erin Moorhead, Research Lifecycle Intern
