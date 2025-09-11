@@ -9,13 +9,13 @@ This inaugural report is being released during [Open Access Week 2025](https://w
 
 ## Journal articles published
 
-Over the course of January 1, 2025 to October 1, 2025 a total of: **YYY** articles have been published by Brock Researchers.
+Over the course of January 1, 2025 to October 1, 2025 a total of: **402** articles have been published by Brock Researchers.
 
 ### Open Access versus Closed
 
 The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of Open Access is detail.
 
-[PIE, OA vs. non-OA]
+![OA vs. non-OA](Open_access_versus_Closed.png)
 
 #### Colours of Open Access
 
@@ -27,7 +27,7 @@ The different colours of Open Access represent the different classes of Open Acc
 
 When publishing in a closed journal there is often something called a _green pathway_ that will allow the author to either buy out Open Access rights to the article or to allow them to deposit a certain version of their article to the Brock University Digital Repository. The breakdown of what Green pathways exist for Brock author is shown in the following pie graphs.
 
-[PIE of closed v. pathways, paid and free]
+![One Free Pathway](One_Free_Pathway.png)
 
 #### Outreach to achieve Green!
 
@@ -53,10 +53,11 @@ The Brock Library now has a collection of Transformative Agreements with some pu
 
 Some journal titles are popular with Brock Authors.
 
-[bar graph of popular ISSNs]
+![bar graph of popular sources](Top_10_Sources.png)
 
 
-[bar graph of popular publishers]
+![bar graph of popular publishers](Top_10_Publishers.png)
+
 
 ## Reproducibility
 
@@ -68,7 +69,7 @@ This data is built with a few assumptions involved and outlined below
 
 The notebooks and dataset used:
 
-- [Data Set]()
+- [Data Set](Brock_OpenAlex_Harvest_Start_Date_2025-01-01_to_2025-09-01.csv)
 - [Data Set Creation]()
 - [Open Access Analysis]()
 - [APC Analysis](2025_APC_Analysis.ipynb)
