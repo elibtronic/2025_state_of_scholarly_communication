@@ -3,7 +3,9 @@
 # Current to Sept 11 Only!
 
 ## What is this?
-A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University.
+A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University. 
+
+This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme). Future reports will be released in January summarizing the previous year. 
 
 ## Journal articles published
 
@@ -13,11 +15,13 @@ Over the course of January 1, 2025 to October 1, 2025 a total of: **YYY** articl
 
 The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of Open Access is detail.
 
+[PIE, OA vs. non-OA]
+
 #### Colours of Open Access
 
 The different colours of Open Access represent the different classes of Open Access. The pie graph below shows the breakdown of these categories of the Brock published journal articles.
 
-[PIE]
+[PIE, Green, Gold, etc]
 
 #### Green Open Access pathways?
 
@@ -52,14 +56,14 @@ Some journal titles are popular with Brock Authors.
 [bar graph of popular ISSNs]
 
 
+[bar graph of popular publishers]
 
-
-## Reproducability
+## Reproducibility
 
 This data is built with a few assumptions involved and outlined below
 
-- Journal content with DOI
-- Brock researchers with a `Brock ROR` in their [ORCID](https://orcid.org/) record
+- Journal content with a _DOI_ available to _OpenAlex_
+- Brock researchers with a _Brock ROR_ in their [ORCID](https://orcid.org/) record
 
 
 The notebooks and dataset used:
@@ -75,19 +79,15 @@ If you have an idea for what to add to this report please get in touch.
 
 The data in this analysis was sourced from
 
+![open_alex](OpenAlex.png)
 [OpenAlex](https://openalex.org/)
 
-![open_alex](OpenAlex.png) 
-
-
+![policy_finder](JISC.png)
 [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
 
-![policy_finder](JISC.png)
-
-
+Special Thanks to Erin Moorhead, Research Lifecycle Intern
 
 ## Further Information
 
 - Consult our [Getting Your Research Out]() Guide for more information
 - Please contact [Tim Ribaric](https://brocku.ca/library/tim-ribaric/) Scholarly Publishing and Platforms Librarian
-- Special Thanks to Erin Moorhead, Research Lifecycle Intern
