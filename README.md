@@ -70,8 +70,7 @@ This data is built with a few assumptions involved and outlined below
 The notebooks and dataset used:
 
 - [Data Set](Brock_OpenAlex_Harvest_Start_Date_2025-01-01_to_2025-09-01.csv)
-- [Data Set Creation]()
-- [Open Access Analysis]()
+- [Data Set Creation and OA Analysis](2025_SofSC.ipynb)
 - [APC Analysis](2025_APC_Analysis.ipynb)
 
 If you have an idea for what to add to this report please get in touch.
