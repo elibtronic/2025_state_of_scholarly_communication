@@ -15,7 +15,7 @@ Over the course of January 1, 2025 to October 1, 2025 a total of: **402** articl
 
 The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of Open Access is detail.
 
-![OA vs non-OA](Open_access_versus_Closed.png)
+![OA vs non-OA](Open_Access_versus_Closed.png)
 
 #### Colours of Open Access
 
