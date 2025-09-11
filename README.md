@@ -21,7 +21,7 @@ The Brock Library [website](https://brocku.ca/library/open-access/) explains the
 
 The different colours of Open Access represent the different classes of Open Access. The pie graph below shows the breakdown of these categories of the Brock published journal articles.
 
-[PIE, Green, Gold, etc]
+![Colors of Open Access](Colours_of_Open_Access.png)
 
 #### Green Open Access pathways?
 
