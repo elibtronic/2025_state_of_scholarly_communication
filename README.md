@@ -67,7 +67,7 @@ The notebooks and dataset used:
 - [Data Set]()
 - [Data Set Creation]()
 - [Open Access Analysis]()
-- [APC Analysis](https://github.com/elibtronic/state_of_scholarly_communication/blob/main/2025_APC_Analysis.ipynb)
+- [APC Analysis](2025_APC_Analysis.ipynb)
 
 If you have an idea for what to add to this report please get in touch.
 
