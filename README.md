@@ -11,31 +11,53 @@ This inaugural report is being released during [Open Access Week 2025](https://w
 
 Over the course of January 1, 2025 to October 1, 2025 a total of: **402** articles have been published by Brock Researchers.
 
+The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of Open Access is detail. 
+
+The most important detail here is that Open Access articles are available to readers **without any payment**!
+
+Sometimes a journal charges an author processing charge **(APC)** to  make an article open access. This happens for both closed journals with some Open Access content and for totally open access journals. 
+
+Sometimes it is possible to **publish an earlier version** of a closed journal article in a place like the [Brock University Digital Repository](https://brocku.scholaris.ca/home) to have it become Open Access.  We call this having a Green Open Access Pathway.
+
+Does this sound confusing? Well it is.
+
 ### Open Access versus Closed
 
-The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of Open Access is detail.
+The following graph show the proportion of closed and open access articles published by Brock researchers.
 
 ![OA vs non-OA](Open_Access_versus_Closed.png)
 
 #### Colours of Open Access
 
-The different colours of Open Access represent the different classes of Open Access. The pie graph below shows the breakdown of these categories of the Brock published journal articles.
+We can now examine the the **different colours** of Open Access journals published. The pie graph below shows the breakdown of these categories versus the closed articles published.
 
 ![Colors of Open Access](Colours_of_Open_Access.png)
 
-#### Green Open Access pathways?
+#### Green Open Access
 
-When publishing in a closed journal there is often something called a _green pathway_ that will allow the author to either buy out Open Access rights to the article or to allow them to deposit a certain version of their article to the Brock University Digital Repository. The breakdown of what Green pathways exist for Brock author is shown in the following pie graphs.
+<!-- When publishing in a closed journal there is often something called a _green pathway_ that will allow the author to either buy out Open Access rights to the article or to allow them to deposit a certain version of their article to the Brock University Digital Repository. The breakdown of what Green pathways exist for Brock author is shown in the following pie graphs.
 
-![One Free Pathway](One_Free_Pathway.png)
+![One Free Pathway](One_Free_Pathway.png) -->
 
-#### Outreach to achieve Green!
+#### Paid for Pathways for Closed Articles
 
-The library is developing a program of contacting Brock affliated authors of Green eligible journal articles to encourage them to submit an eligible version into the Brock Digital Repository. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
+As described above we can sometimes achieve Green Open Access by posting a version of an article or by paying a fee. The following graph shows how many closed papers have at least one paid for pathway to achieve some version of open access.
+
+![One Paid For Pathway](Paid_For_Option_Closed_Articles.png)
+
+#### A Free Pathway for Closed Articles
+
+In contrast, the following graph shows how many closed papers have at least one free pathway to achieve some version of open access. This means that there is a **free** way to make **128** closed articles Open Access!
+
+![One Paid For Pathway](Free_Option_Closed_Articles.png)
+
+#### Outreach for Open Access!
+
+The library is developing a program to contact the Brock affliated authors of these **128** articles to encourage them to submit an eligible version into the Brock Digital Repository. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
 
 ![Share Your Papers](syp_form.png)
 
-Expect an email soon with more details about this.
+If you published recently and fall in this category, expect an email soon with more details about this.
 
 ## APCs
 
