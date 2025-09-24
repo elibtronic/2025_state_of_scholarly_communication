@@ -1,11 +1,12 @@
-# 2025 Report
+![Brock Logo](brocku-384x232.png) 
+# 2025 State of Scholarly Publishing Report
+
+## Prepared by Brock Library Research Lifecycle Department
 
 # Current to Sept 11 Only!
 
 ## What is this?
-A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University. 
-
-This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme). Future reports will be released in January summarizing the previous year. 
+A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University. This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme). Future reports will be cover complete years.
 
 ## Journal articles published
 
@@ -23,7 +24,7 @@ Does this sound confusing? Well it is. The following graph show the proportion o
 
 #### Colours of Open Access
 
-We can now examine the the **different colours** of Open Access journals published. The pie graph below shows the breakdown of these categories versus the closed articles published. Once again the the library website has a description of what these colours mean.
+We can now examine the the **different colours** of Open Access journals published. The pie graph below shows the breakdown of these categories versus the closed articles published. The library website has a description of what these colours mean.
 
 ![Colors of Open Access](Colours_of_Open_Access.png)
 
@@ -49,7 +50,7 @@ This means that there is a **free** way to make **128** closed articles Open Acc
 
 #### Outreach for Open Access!
 
-The library is developing a program to contact Brock affliated authors of these **128** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form](). Below is a screenshot of what this form looks like.
+The library is developing a program to contact Brock affliated authors of these **128** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
 
 ![Share Your Papers](syp_form.png)
 
@@ -92,28 +93,20 @@ This data is built with a few assumptions involved and outlined below
 - Journal content with a _DOI_ available to _OpenAlex_
 - Brock researchers with a _Brock ROR_ in their [ORCID](https://orcid.org/) record
 
+Notebooks and data used to compile this report are freely available [online](https://github.com/elibtronic/2025_state_of_scholarly_communication). If you have an idea for what to add to this report please get in touch.
 
-The notebooks and dataset used:
-
-- [Data Set](Brock_OpenAlex_Harvest_Start_Date_2025-01-01_to_2025-09-01.csv)
-- [Data Set Creation and OA Analysis](2025_SofSC.ipynb)
-- [APC Analysis](2025_APC_Analysis.ipynb)
-
-If you have an idea for what to add to this report please get in touch.
-
-## Acknowledgements
+## Acknowledgements & Further Information
 
 The data in this analysis was sourced from
 
-![open_alex](OpenAlex.png)
 [OpenAlex](https://openalex.org/)
 
-![policy_finder](JISC.png)
+![open_alex](OpenAlex.png)
+
 [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/)
 
-Special Thanks to Erin Moorhead, Research Lifecycle Intern
+![policy_finder](JISC.png)
 
-## Further Information
-
+- Special Thanks to Erin Moorhead, Research Lifecycle Intern
 - Consult our [Getting Your Research Out]() Guide for more information
 - Please contact [Tim Ribaric](https://brocku.ca/library/tim-ribaric/) Scholarly Publishing and Platforms Librarian
