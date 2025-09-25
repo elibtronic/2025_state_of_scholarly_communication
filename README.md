@@ -3,14 +3,14 @@
 
 ## Prepared by Brock Library Research Lifecycle Department
 
-# Current to Sept 11 Only!
+
 
 ## What is this?
-A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University. This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme). Future reports will be cover complete years.
+A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University over the period of July 1, 2024 to June 30, 2025. This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme) to show highlight Brock's participation in Open Access publishing.
 
 ## Journal articles published
 
-Over the course of January 1, 2025 to October 1, 2025 a total of: **414** articles have been published by Brock Researchers. The following analysis explores some details about those papers.
+Over the course of January 1, 2025 to October 1, 2025 a total of: **670** articles have been published by Brock Researchers. The following analysis explores some details about those papers.
 
 ### Open Access versus Closed
 
@@ -44,13 +44,13 @@ As described above we can sometimes achieve Green Open Access by posting a versi
 
 In contrast, the following graph shows how many Closed papers have at least one _free pathway_ to achieve some version of Open Access. This is great news, by doing a bit of work we can make a bunch of research available Open Access without paying any money.
 
-This means that there is a **free** way to make **128** closed articles Open Access!
+This means that there is a **free** way to make **188** closed articles Open Access!
 
 ![One Paid For Pathway](Free_Option_Closed_Articles.png)
 
 #### Outreach for Open Access!
 
-The library is developing a program to contact Brock affliated authors of these **128** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
+The library is developing a program to contact Brock affliated authors of these **188** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
 
 ![Share Your Papers](syp_form.png)
 
@@ -58,12 +58,12 @@ If you published recently and fall in this category of Closed, expect an email s
 
 ## APCs
 
-As described some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD.
+As described some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD. Sometimes this fee is paid by a research grant, sometimes directly by the researcher. Since research teams span different organizations APC payments might also span different organizations, so it is fair to say these fees weren't all paid out by Brock researchers directly.
 
-- Total amount spent: **$621,484**
-- Average amount per paid APC: **$3959**
-- About **55%** of the published items had an APC attached to them
-- About **54%** of items that had an APC, had that APC paid for
+- Total amount spent: **$1,027,839**
+- Mean Average amount per paid APC: **$4,111**
+- About **56%** of the published items had an APC attached to them
+- About **56%** of items that had an APC, had that APC paid for
 
 The Brock Library now has a collection of _Transformative Agreement_s with some publishers that will offer some [discounts](https://brocku.ca/library/open-access/open-access-investments/#1675264614266-ad3c5d97-5fef) to APC charges.
 
