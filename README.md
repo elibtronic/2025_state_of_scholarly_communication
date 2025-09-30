@@ -50,11 +50,11 @@ This means that there is a **free** way to make **188** closed articles Open Acc
 
 #### Outreach for Open Access!
 
-The library is developing a program to contact Brock affliated authors of these **188** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form]().
+The library is developing a program to contact Brock affliated authors of these **188** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form](https://researchguides.library.brocku.ca/getting-your-research-out/depositing-open-access).
 
 ![Share Your Papers](syp_form.png)
 
-If you published recently and fall in this category of Closed, expect an email soon with more details about this project.
+If you published recently and fall in this category of **Closed**, expect an email soon with more details about this project.
 
 ## APCs
 
