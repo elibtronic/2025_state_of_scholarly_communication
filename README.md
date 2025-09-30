@@ -78,12 +78,18 @@ Some publishers also rank high in popularity.
 
 ![bar graph of popular publishers](Top_10_Publishers.png)
 
+## Are Popular Publishers Open?
+
+We can combine a few things now to see how open our top publishers are.
+
+![bar graph of popular publishers by open access versus closed](Proportion_of_Open_Access.png)
+
 
 ## How do I get my research out
 
-We have developed a new [guide]() that will help you get the most of out of your publishing. The first step is to create an ORCID, and put Brock in your affiliation, both of these steps are outlined in the guide. Then when you publish be sure to share your ORCID with the journal and your content will automatically get included in this analysis.
+We have developed a new [guide](https://researchguides.library.brocku.ca/getting-your-research-out) that will help you get the most of out of your publishing. The first step is to create an ORCID, and put Brock in your affiliation, both of these steps are outlined in the guide. Then when you publish be sure to share your ORCID with the journal and your content will automatically get included in this analysis.
 
-Please don't hestitate to get in [touch]() with us if you have questions about how this works, or if you need help setting up the pieces.
+Please don't hestitate to get in [touch](https://brocku.ca/library/tim-ribaric/) with us if you have questions about how this works, or if you need help setting up the pieces.
 
 
 ## Reproducibility
@@ -91,7 +97,7 @@ Please don't hestitate to get in [touch]() with us if you have questions about h
 This data is built with a few assumptions involved and outlined below
 
 - Journal content with a _DOI_ available to _OpenAlex_
-- Brock researchers with a _Brock ROR_ in their [ORCID](https://orcid.org/) record
+- Brock researchers with a _Brock ROR_ in their ORCID record.
 
 Notebooks and data used to compile this report are freely available [online](https://github.com/elibtronic/2025_state_of_scholarly_communication). If you have an idea for what to add to this report please get in touch.
 
@@ -108,5 +114,5 @@ The data in this analysis was sourced from
 ![policy_finder](JISC.png)
 
 - Special Thanks to Erin Moorhead, Research Lifecycle Intern
-- Consult our [Getting Your Research Out]() Guide for more information
+- Consult our [Getting Your Research Out](https://researchguides.library.brocku.ca/getting-your-research-out) Guide for more information
 - Please contact [Tim Ribaric](https://brocku.ca/library/tim-ribaric/) Scholarly Publishing and Platforms Librarian
