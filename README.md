@@ -6,15 +6,15 @@
 
 
 ## What is this?
-A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some snapshots and analysis of publishing trends at Brock University over the period of July 1, 2024 to June 30, 2025. This inaugural report is being released during [Open Access Week 2025](https://www.openaccessweek.org/theme) to show highlight Brock's participation in Open Access publishing.
+A yearly check-in of some Scholarly Publishing topics at Brock University. It presents some analysis of publishing trends at Brock University over the 2024/2025 academic year. This inaugural report is being released in conjunction with [Open Access Week 2025](https://www.openaccessweek.org/theme) to highlight Brock's participation in Open Access journal publishing.
 
 ## Journal articles published
 
-Over the course of January 1, 2025 to October 1, 2025 a total of: **670** articles have been published by Brock Researchers. The following analysis explores some details about those papers.
+Over the course of July 1, 2024 to June 30, 2025 a total of: **670** articles have been published by Brock Researchers.
 
 ### Open Access versus Closed
 
-We can divide all journal articles into two categories: Open Access or Closed. The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of these differences. The most important detail here however is that Open Access articles are available to readers **without any payment**! Sometimes a journal charges an author processing charge **(APC)** to  make an article open access. This happens for both closed journals with some Open Access content and for totally Open Access journals. 
+We can divide all journal articles into two categories: _Open Access_ or _Closed_. The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of these differences. The most important detail here however is that Open Access articles are available to readers **without any payment**! Sometimes a journal charges an author processing charge **(APC)** to  make an article open access. This happens for both closed journals with some Open Access content and for totally Open Access journals. 
 
 Sometimes it is possible to **publish an earlier version** of a closed journal article in a place like the [Brock University Digital Repository](https://brocku.scholaris.ca/home) to have it become Open Access. We call this having a Green Open Access Pathway.
 
@@ -78,9 +78,7 @@ Some publishers also rank high in popularity.
 
 ![bar graph of popular publishers](Top_10_Publishers.png)
 
-## Are Popular Publishers Open?
-
-We can combine a few things now to see how open our top publishers are.
+Are these popular publishers producing open access content? We can combine a few things now to see just how open our top publishers are.
 
 ![bar graph of popular publishers by open access versus closed](Proportion_of_Open_Access.png)
 
