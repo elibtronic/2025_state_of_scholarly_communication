@@ -10,7 +10,7 @@ A yearly check-in of some Scholarly Publishing topics at Brock University. It pr
 
 ## Journal articles published
 
-Over the course of July 1, 2024 to June 30, 2025 a total of: **670** articles have been published by Brock Researchers.
+Over the course of July 1, 2024 to June 30, 2025 a total of: **671** articles have been published by Brock Researchers.
 
 ### Open Access versus Closed
 
@@ -34,11 +34,11 @@ We can now examine the the **different colours** of Open Access journals publish
 
 ![One Free Pathway](One_Free_Pathway.png) -->
 
-#### Paid for Pathways for Closed Articles
+#### paid-for Pathways for Closed Articles
 
-As described above we can sometimes achieve Green Open Access by posting a version of an article or by paying a fee. The following graph shows how many of the still Closed papers have at least one paid for pathway to achieve some version of Open Access. What this means in practice is that the author(s) of the paper can pay a supplimenatary APC after publication to move the paper from Closed to Open Access. This can get expensive however. (APCs data is analyzed littler later on in this report).
+As described above we can sometimes achieve Green Open Access by posting a version of an article or by paying a fee. The following graph shows how many of the still Closed papers have at least one paid-for pathway to achieve some version of Open Access. What this means in practice is that the author(s) of the paper can pay a supplimenatary APC after publication to move the paper from Closed to Open Access. This can get expensive however. (APCs data is analyzed littler later on in this report).
 
-![One Paid For Pathway](Paid_For_Option_Closed_Articles.png)
+![One paid-for Pathway](Paid_For_Option_Closed_Articles.png)
 
 #### A Free Pathway for Closed Articles
 
@@ -46,7 +46,7 @@ In contrast, the following graph shows how many Closed papers have at least one 
 
 This means that there is a **free** way to make **188** closed articles Open Access!
 
-![One Paid For Pathway](Free_Option_Closed_Articles.png)
+![One paid-for Pathway](Free_Option_Closed_Articles.png)
 
 #### Outreach for Open Access!
 
@@ -58,12 +58,12 @@ If you published recently and fall in this category of **Closed**, expect an ema
 
 ## APCs
 
-As described some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD. Sometimes this fee is paid by a research grant, sometimes directly by the researcher. Since research teams span different organizations APC payments might also span different organizations, so it is fair to say these fees weren't all paid out by Brock researchers directly.
+As described some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD. Sometimes this fee is paid by a research grant, sometimes directly by the researcher. Since research teams span different organizations APC payments might also span different organizations, so it is fair to say these fees weren't all paid out by Brock researchers directly. Some of these fees might of come from _Transformative Agreements_.
 
 - Total amount spent: **$1,027,839**
 - Mean Average amount per paid APC: **$4,111**
 - About **56%** of the published items had an APC attached to them
-- About **56%** of items that had an APC, had that APC paid for
+- About **56%** of items that had an APC, had that APC paid-for
 
 The Brock Library now has a collection of _Transformative Agreement_s with some publishers that will offer some [discounts](https://brocku.ca/library/open-access/open-access-investments/#1675264614266-ad3c5d97-5fef) to APC charges.
 
@@ -95,7 +95,8 @@ Please don't hestitate to get in [touch](https://brocku.ca/library/tim-ribaric/)
 This data is built with a few assumptions involved and outlined below
 
 - Journal content with a _DOI_ available to _OpenAlex_
-- Brock researchers with a _Brock ROR_ in their ORCID record.
+- Brock researchers with a _Brock ROR_ in their ORCID record
+- This data was retrieved from OpenAlex on _October 3, 2025_
 
 Notebooks and data used to compile this report are freely available [online](https://github.com/elibtronic/2025_state_of_scholarly_communication). If you have an idea for what to add to this report please get in touch.
 
