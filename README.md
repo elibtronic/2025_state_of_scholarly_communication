@@ -14,7 +14,7 @@ Over the course of July 1, 2024 to June 30, 2025 a total of: **671** articles ha
 
 ### Open Access versus Closed
 
-We can divide all journal articles into two categories: _Open Access_ or _Closed_. The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of these differences. The most important detail here however is that Open Access articles are available to readers **without any payment**! Sometimes a journal charges an author processing charge **(APC)** to  make an article open access. This happens for both closed journals with some Open Access content and for totally Open Access journals. 
+We can divide all journal articles into two categories: _Open Access_ or _Closed_. The Brock Library [website](https://brocku.ca/library/open-access/) explains the dynamics of these differences. The most important detail here however is that Open Access articles are available to readers **without any payment**! Sometimes a journal charges an article processing charge **(APC)** to  make an article open access. This happens for both closed journals with some Open Access content and for totally Open Access journals. 
 
 Sometimes it is possible to **publish an earlier version** of a closed journal article in a place like the [Brock University Digital Repository](https://brocku.scholaris.ca/home) to have it become Open Access. We call this having a Green Open Access Pathway.
 
@@ -58,7 +58,7 @@ If you published recently and fall in this category of **Closed**, expect an ema
 
 ## APCs
 
-As described some publishers enable Open Access through the payment of an additional Author Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD. Sometimes this fee is paid by a research grant, sometimes directly by the researcher. Since research teams span different organizations APC payments might also span different organizations, so it is fair to say these fees weren't all paid out by Brock researchers directly. Some of these fees might of come from _Transformative Agreements_.
+As described some publishers enable Open Access through the payment of an additional Article Processing Charge (APC). This is on top of regular subscription costs that the library already pays to get access to the journal. All figures in CAD. Sometimes this fee is paid by a research grant, sometimes directly by the researcher. Since research teams span different organizations APC payments might also span different organizations, so it is fair to say these fees weren't all paid out by Brock researchers directly. Some of these fees might of come from _Transformative Agreements_.
 
 - Total amount spent: **$1,027,839**
 - Mean Average amount per paid APC: **$4,111**
